@@ -1,0 +1,22 @@
+{
+  "name": "workshop-javascript-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js","scripts": {
+    "start": "http-server -c-1 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salmingprox/Altkom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salmingprox/Altkom/issues"
+  },
+  "homepage": "https://github.com/Salmingprox/Altkom#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
