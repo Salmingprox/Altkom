@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "lotto",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -c-1 ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
