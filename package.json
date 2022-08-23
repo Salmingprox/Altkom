@@ -2,8 +2,10 @@
   "name": "workshop-javascript-basics",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js","scripts": {
-    "start": "http-server -c-1 ."
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 .",
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/Salmingprox/Altkom#readme",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "http-server": "^14.1.1"
   }
 }
