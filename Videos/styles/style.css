@@ -3,8 +3,6 @@
     margin: 0;
     
 }
-
-
 main {
     display: flex;
     justify-content: space-around;
@@ -15,5 +13,16 @@ main {
     width: 300px;
     margin: 0 10px;
   }
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  nav ul li {
+    margin: 5px;
+  }
+  
   
 
